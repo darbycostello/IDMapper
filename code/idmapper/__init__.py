@@ -22,13 +22,13 @@
 bl_info = {
     "name": "IDMapper",
     "author": "Michel Anders (varkenvarken)",
-    "version": (0, 0, 20250816090946),
+    "version": (0, 0, 20250816102007),
     "blender": (4, 4, 0),
     "location": "View3D > Vertex Paint > Paint",
     "description": "Create an idmap as a vertex color layer, grouping related faces by color",
     "warning": "",
-    "wiki_url": "https://blendermarket.com/creators/varkenvarken",
-    "tracker_url": "https://blendermarket.com/creators/varkenvarken",
+    "wiki_url": "",
+    "tracker_url": "https://github.com/varkenvarken/IDMapper/issues",
     "category": "Paint",
 }
 
