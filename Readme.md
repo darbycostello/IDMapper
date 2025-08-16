@@ -1,27 +1,15 @@
-IDMapper
 
-This archive contains the following files:
+# IDMapper-FreeVersion
 
-README
-		what you are reading now
+this is a work in progress
 
-IDMapper documentation.pdf
-		a full color detailed manual that lists all
-		options and has instructions on installation
-		as well as a small workflow primer.
-		Please not that for this experimental 2.80 version
-		the manual has not been updated yet. The functionality
-		is the same though.
+## TLDR; 
 
-idmapper280.zip
-		the add-on itself. Place this .zip file anywhere you like
-		and then in Blender go to
+- works on Blender 4.4 (and likely on 4.5 but not tested)
 
-		Edit -> Preferences -> Add-ons -> Install Add-on from File ...
+- docs in documentation
 
-		and select this .zip file.
-		If you want to replace a previous version of IDMapper do not
-		forget to remove it first.
+- latest installable add-on in releases
 
 There is a small collection of introduction and tutorial videos aboout
 IDMapper on YouTube in this playlist:
@@ -29,4 +17,11 @@ IDMapper on YouTube in this playlist:
 https://youtu.be/cNpQ7zuQIVc
 
 Enjoy!
- 
+
+## Support
+
+None, but feel free to create an issue in the repository (or even a PR 😄)
+
+## License
+
+This program is licensed under the GNU General Public License (GPL) version 2 or later. See the LICENSE file for more details.
